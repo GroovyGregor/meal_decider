@@ -2,7 +2,7 @@
 
 Have you ever been sitting at home, not able to decide what to eat to lunch?
 Consider yourself lucky - the meal decider is here!
-Based on a list of meals together with a health rating, taste_rating and the
+Based on a list of meals together with a health rating, taste rating and the
 type of meal (vegan, vegetarian, meat), the script suggests your next meal.
 This can be one of your listed meals, but the program might also suggest you
 go and try to make a new meal.
